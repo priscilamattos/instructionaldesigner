@@ -1,0 +1,6 @@
+Priscila Mattos — Portfolio Website
+
+Extract the entire ZIP, then open index.html to preview.
+For Netlify, upload the extracted folder containing index.html.
+Includes resume, project resources, and both interactive lessons.
+External reference links require internet.
